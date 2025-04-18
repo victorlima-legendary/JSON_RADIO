@@ -1,17 +1,3 @@
 {
-  "posts": [
-    {
-      "titulo": "0192837456",
-      "descricao": "29384756",
-      "imagemPrincipal": {
-        "link": "https://i.imgur.com/T7Wr4dE.jpeg"
-      },
-      "imagensComplementares": [
-        {
-          "link": "https://i.imgur.com/TWhUvEh.jpeg"
-        }
-      ],
-      "id": 1745004937184
-    }
-  ]
+  "posts": []
 }
