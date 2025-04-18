@@ -1,3 +1,19 @@
 {
-   "posts": []
- }
+  "posts": [
+    {
+      "id": 1745000253245,
+      "titulo": "91283746",
+      "descricao": "1092837",
+      "imagemPrincipal": {
+        "link": "https://i.imgur.com/r67cAsV.jpeg",
+        "deletehash": "MkAngj6Oz1Tp1dz"
+      },
+      "imagensComplementares": [
+        {
+          "link": "https://i.imgur.com/MY51XjD.jpeg",
+          "deletehash": "zR5jGemIHuKLvPl"
+        }
+      ]
+    }
+  ]
+}
