@@ -1,5 +1,5 @@
 
 
-## <b><u>JSON que recebe informações da API do Imgur</u><b>
+## <b><u>JSON QUE RECEBE INFORMAÇÕES DA API DO I.MGUR</u><b>
 
 <p><b>RÁDIO TEMPO DE AVIVAMENTO</b</p>
