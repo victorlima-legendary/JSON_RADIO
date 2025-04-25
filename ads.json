@@ -11,6 +11,10 @@
     {
       "nome": "banner3.jpg",
       "link": "https://raw.githubusercontent.com/victorlima-legendary/JSON_RADIO/main/img_anuncios/banner3.jpg"
+    },
+    {
+      "nome": "banner4.jpg",
+      "link": "https://raw.githubusercontent.com/victorlima-legendary/JSON_RADIO/main/img_anuncios/banner4.jpg"
     }
   ]
 }
