@@ -1,3 +1,8 @@
 {
-  "imagens": []
+  "imagens": [
+    {
+      "nome": "banner.jpg",
+      "link": "https://raw.githubusercontent.com/victorlima-legendary/JSON_RADIO/main/img_anuncios/banner.jpg"
+    }
+  ]
 }
